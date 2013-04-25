@@ -104,10 +104,10 @@ class NN:
             print p[0], '->', self.update(p[0])
 
     """
-    My trial test function, displays the value of XOR also:
+    This test function, displays the predicted value of XOR:
         def test(self, patterns):
             for p in patterns:
-                x = self.update(p[0])[0] #cos, update returns array, we access array[0]
+                x = self.update(p[0])[0] # update returns array, we access array[0]
                 print p[0], '->', x
                 if x > 0.5:
                     print "1"
