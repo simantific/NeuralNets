@@ -1,4 +1,8 @@
-NeuralNets
+Neural Nets
 ==========
-Some Implementations for Neural Networks.
-
+Neural Network implementations for machine learning.
+<ul>
+<li>Perceptron based</li>
+<li>Back propagation</li>
+<li>Bacterial foraging optimization</li>
+</ul>
